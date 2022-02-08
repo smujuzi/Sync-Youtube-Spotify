@@ -1,0 +1,610 @@
+{
+  "href": "https://api.spotify.com/v1/users/stuart5971/playlists?offset=0&limit=50",
+  "items": [
+    {
+      "collaborative": false,
+      "description": "All Liked Youtube Videos",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/75piSqWvqO6HRXmibC74Rq"
+      },
+      "href": "https://api.spotify.com/v1/playlists/75piSqWvqO6HRXmibC74Rq",
+      "id": "75piSqWvqO6HRXmibC74Rq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731bb797bbfe2480650b6c2964ab67616d0000b27379ab73f6bfebec7c0e85f922ab67616d0000b27390e89e3afc4441bf36720a73ab67616d0000b273feb2641c47f600fc0fe21136",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731bb797bbfe2480650b6c2964ab67616d0000b27379ab73f6bfebec7c0e85f922ab67616d0000b27390e89e3afc4441bf36720a73ab67616d0000b273feb2641c47f600fc0fe21136",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731bb797bbfe2480650b6c2964ab67616d0000b27379ab73f6bfebec7c0e85f922ab67616d0000b27390e89e3afc4441bf36720a73ab67616d0000b273feb2641c47f600fc0fe21136",
+          "width": 60
+        }
+      ],
+      "name": "Youtube Liked Vids",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTMsNjIyMzBmMmIxODEwMGE2NjYyOWMwZmY2YWU0YmEzOThjNDc2NjJjZQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/75piSqWvqO6HRXmibC74Rq/tracks",
+        "total": 25
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:75piSqWvqO6HRXmibC74Rq"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3pkquunCDTyEONQNF8aGCm"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3pkquunCDTyEONQNF8aGCm",
+      "id": "3pkquunCDTyEONQNF8aGCm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+          "width": 640
+        }
+      ],
+      "name": "Donda Remake",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjEsNjVjZWQ5ZDM1YWE2NzZjM2E2ZjE4ZGJkODIzZWQyMjA2NDlmYzdhZA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3pkquunCDTyEONQNF8aGCm/tracks",
+        "total": 19
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3pkquunCDTyEONQNF8aGCm"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7LPyq6BTaRg5KewaibtJxh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7LPyq6BTaRg5KewaibtJxh",
+      "id": "7LPyq6BTaRg5KewaibtJxh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273267158422744961d90e942b3ab67616d0000b273b19cb81319fbfd9ed54baeaeab67616d0000b273b2229a8fdf377abaf3652624ab67616d0000b273dfb2b41e8669c38536b7c3b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273267158422744961d90e942b3ab67616d0000b273b19cb81319fbfd9ed54baeaeab67616d0000b273b2229a8fdf377abaf3652624ab67616d0000b273dfb2b41e8669c38536b7c3b6",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273267158422744961d90e942b3ab67616d0000b273b19cb81319fbfd9ed54baeaeab67616d0000b273b2229a8fdf377abaf3652624ab67616d0000b273dfb2b41e8669c38536b7c3b6",
+          "width": 60
+        }
+      ],
+      "name": "Date Night II",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzEsMjdmYTZjYzBlNTY5MGFhMWQ2ODU5NTNiZjViZTM4ZGMwZTZiZGRhMw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7LPyq6BTaRg5KewaibtJxh/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7LPyq6BTaRg5KewaibtJxh"
+    },
+    {
+      "collaborative": false,
+      "description": "Curated at an ungodly hour.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0kkZDM7TpD19smE1eWvFjg"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0kkZDM7TpD19smE1eWvFjg",
+      "id": "0kkZDM7TpD19smE1eWvFjg",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb1bab531be709abef87200796",
+          "width": null
+        }
+      ],
+      "name": "Post Drinks",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzQsODU2YThhNTE5ZmYzYjhjMjRkM2M0MzRjMDA5YzA4ZWVjNmY4NGY3Zg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0kkZDM7TpD19smE1eWvFjg/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0kkZDM7TpD19smE1eWvFjg"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1OMWTt54Q1pk4IRc887EEA"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1OMWTt54Q1pk4IRc887EEA",
+      "id": "1OMWTt54Q1pk4IRc887EEA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27389c5c606cd7bae638ee4bb44ab67616d0000b273a06458b080f396941f2a2af9ab67616d0000b273d006fb572089571f1f6c6a14ab67616d0000b273d1631eccb03201e59054a370",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27389c5c606cd7bae638ee4bb44ab67616d0000b273a06458b080f396941f2a2af9ab67616d0000b273d006fb572089571f1f6c6a14ab67616d0000b273d1631eccb03201e59054a370",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27389c5c606cd7bae638ee4bb44ab67616d0000b273a06458b080f396941f2a2af9ab67616d0000b273d006fb572089571f1f6c6a14ab67616d0000b273d1631eccb03201e59054a370",
+          "width": 60
+        }
+      ],
+      "name": "By Spotify!",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NCw1ZDFkMTlmMDhjYmRhODFmODA2MmFkMmVhM2ZmODk3MGJkMTA0MGI0",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1OMWTt54Q1pk4IRc887EEA/tracks",
+        "total": 16
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1OMWTt54Q1pk4IRc887EEA"
+    },
+    {
+      "collaborative": false,
+      "description": "From 406 to the World!\ud83c\udf7e\ud83e\udd85\ud83d\udd25",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0yEAldRVTHhZ3sPj3WiAT7"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0yEAldRVTHhZ3sPj3WiAT7",
+      "id": "0yEAldRVTHhZ3sPj3WiAT7",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbc8b99b37c08decf5a96d503e",
+          "width": null
+        }
+      ],
+      "name": "406 Nottingham One",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTIyLDQxZjdhMjdmYjRmNjgyMGQ4MDI5NGU4N2ViYzkwZjEzYzE1MzBiNzM=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0yEAldRVTHhZ3sPj3WiAT7/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0yEAldRVTHhZ3sPj3WiAT7"
+    },
+    {
+      "collaborative": false,
+      "description": "Dedicated to my sister &lt;3. To the music that raised us!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/540AR5ad5WX4oQhiPBGiBY"
+      },
+      "href": "https://api.spotify.com/v1/playlists/540AR5ad5WX4oQhiPBGiBY",
+      "id": "540AR5ad5WX4oQhiPBGiBY",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb5a746a58fe01eea60c5bab0d",
+          "width": null
+        }
+      ],
+      "name": "Throwbacks\u23ea\u23ea",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzUsZmIyMzE4NWU5MGE4MjIwZmIwYzc3MTdjNjRhNjA3ZWRlNjQxNTQ5Zg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/540AR5ad5WX4oQhiPBGiBY/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:540AR5ad5WX4oQhiPBGiBY"
+    },
+    {
+      "collaborative": false,
+      "description": "Let&#x27;s get it!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1TZyvTpdLnGzSsCIogvPQx"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1TZyvTpdLnGzSsCIogvPQx",
+      "id": "1TZyvTpdLnGzSsCIogvPQx",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbc42f8c75ade68750b0b7d0a7",
+          "width": null
+        }
+      ],
+      "name": "The Groove Collection",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTIwLGJkMjIxMDAxMmI3YWMwZTc0ZWI3OTk5YWRmY2FmNDdkMzkyNWNmZWQ=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1TZyvTpdLnGzSsCIogvPQx/tracks",
+        "total": 113
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1TZyvTpdLnGzSsCIogvPQx"
+    },
+    {
+      "collaborative": false,
+      "description": "If you know, you know \ud83d\udc40\ud83e\udd37\ud83c\udffe\u200d\u2642",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5YO4NcJJ7VPDkYkSQVlWUa"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5YO4NcJJ7VPDkYkSQVlWUa",
+      "id": "5YO4NcJJ7VPDkYkSQVlWUa",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbb68cfc1a2f1bf1f2e33a10cc",
+          "width": null
+        }
+      ],
+      "name": "The Dutty Whine Connoisseur",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzQsZWExM2E4ZTA4Mjk1MzBkMTlmZjA5Yjg3MzRkM2ZiNTQwOGEwNTg2MQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5YO4NcJJ7VPDkYkSQVlWUa/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5YO4NcJJ7VPDkYkSQVlWUa"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7hcjn9XwjoFMKtP394meiE"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7hcjn9XwjoFMKtP394meiE",
+      "id": "7hcjn9XwjoFMKtP394meiE",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb07308d922c1d71c077768ab8",
+          "width": null
+        }
+      ],
+      "name": "DRINKCEMBER",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzQsM2MxMjc0MDJmZWI1ZDE2NmFiZDhmOTUwYzljM2MzNGMwMDg5NjBkYw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7hcjn9XwjoFMKtP394meiE/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7hcjn9XwjoFMKtP394meiE"
+    },
+    {
+      "collaborative": false,
+      "description": "Cuffing Season.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/12FDfSZDTbuwrOqHebdagR"
+      },
+      "href": "https://api.spotify.com/v1/playlists/12FDfSZDTbuwrOqHebdagR",
+      "id": "12FDfSZDTbuwrOqHebdagR",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb4a6d17ff9f525980a4beb839",
+          "width": null
+        }
+      ],
+      "name": "Date Night\ud83c\udf39",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NzUsMDA4YWRlZDlkNTg3OGYyMjlhMjRiMDUzMGVjMmJkMDdiNDk1NzdhOQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/12FDfSZDTbuwrOqHebdagR/tracks",
+        "total": 31
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:12FDfSZDTbuwrOqHebdagR"
+    },
+    {
+      "collaborative": false,
+      "description": "Vibe with me and let&#x27;s groove into the weekend!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5NtoZQE5LJp75mWF3zZbkg"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5NtoZQE5LJp75mWF3zZbkg",
+      "id": "5NtoZQE5LJp75mWF3zZbkg",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbda7a7c66c0bc610fb5d1a38d",
+          "width": null
+        }
+      ],
+      "name": "No Complaints",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NTQsZmM1Mjk3NjQ2OGNiYTcxODA5YzdmY2QzMTk4Y2Q1Mjc2OWQ2NjNlMQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5NtoZQE5LJp75mWF3zZbkg/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5NtoZQE5LJp75mWF3zZbkg"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4LBXXuM6eOyn3mCeqBACHn"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4LBXXuM6eOyn3mCeqBACHn",
+      "id": "4LBXXuM6eOyn3mCeqBACHn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27331b4fd13324ad3cd85aa748cab67616d0000b27389327ead6800b0f632959950ab67616d0000b273c3b8934ffe9065c45b9914abab67616d0000b273de61c5e142856c9cd7ed1998",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27331b4fd13324ad3cd85aa748cab67616d0000b27389327ead6800b0f632959950ab67616d0000b273c3b8934ffe9065c45b9914abab67616d0000b273de61c5e142856c9cd7ed1998",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27331b4fd13324ad3cd85aa748cab67616d0000b27389327ead6800b0f632959950ab67616d0000b273c3b8934ffe9065c45b9914abab67616d0000b273de61c5e142856c9cd7ed1998",
+          "width": 60
+        }
+      ],
+      "name": "Summer 2017",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "ODksNjI3NmEwM2U2ODVlZDRkMTFlZTY0OWM1N2JlNmMwY2IwNjAyNGE1Mw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4LBXXuM6eOyn3mCeqBACHn/tracks",
+        "total": 81
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4LBXXuM6eOyn3mCeqBACHn"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0mBZLBU1n6PSVXE9WGnKkf"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0mBZLBU1n6PSVXE9WGnKkf",
+      "id": "0mBZLBU1n6PSVXE9WGnKkf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273121fae55bc38102df4448b89ab67616d0000b2732bca149ba7dd5e45bf233ac3ab67616d0000b27393bc52fe298b498ed5a806a4ab67616d0000b2739510ea130a19b0566021942c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273121fae55bc38102df4448b89ab67616d0000b2732bca149ba7dd5e45bf233ac3ab67616d0000b27393bc52fe298b498ed5a806a4ab67616d0000b2739510ea130a19b0566021942c",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273121fae55bc38102df4448b89ab67616d0000b2732bca149ba7dd5e45bf233ac3ab67616d0000b27393bc52fe298b498ed5a806a4ab67616d0000b2739510ea130a19b0566021942c",
+          "width": 60
+        }
+      ],
+      "name": "Slow Jams Part II",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDEsMTk3M2NiYTQwMmJkYjIzYWM3ZjRhZWEzZGU1ZmUxOWJiM2Q0YTViOQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0mBZLBU1n6PSVXE9WGnKkf/tracks",
+        "total": 37
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0mBZLBU1n6PSVXE9WGnKkf"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/00muerz1hvtIVA26lfh4fB"
+      },
+      "href": "https://api.spotify.com/v1/playlists/00muerz1hvtIVA26lfh4fB",
+      "id": "00muerz1hvtIVA26lfh4fB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731c1c33c63cdbcb5788975a93ab67616d0000b2732090f4f6cc406e6d3c306733ab67616d0000b273adfb5909ec66db5fbb4d06c8ab67616d0000b273c2f92edfc32f3f6979d8268c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731c1c33c63cdbcb5788975a93ab67616d0000b2732090f4f6cc406e6d3c306733ab67616d0000b273adfb5909ec66db5fbb4d06c8ab67616d0000b273c2f92edfc32f3f6979d8268c",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731c1c33c63cdbcb5788975a93ab67616d0000b2732090f4f6cc406e6d3c306733ab67616d0000b273adfb5909ec66db5fbb4d06c8ab67616d0000b273c2f92edfc32f3f6979d8268c",
+          "width": 60
+        }
+      ],
+      "name": "Slow Jams",
+      "owner": {
+        "display_name": "Stuart Kasekende",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/stuart5971"
+        },
+        "href": "https://api.spotify.com/v1/users/stuart5971",
+        "id": "stuart5971",
+        "type": "user",
+        "uri": "spotify:user:stuart5971"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDUsY2NmYTNlOTdkYjJhOTkzYmE4ZGE4ZWM5N2JiMTZlNzU5ZjEwNDY4MA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/00muerz1hvtIVA26lfh4fB/tracks",
+        "total": 43
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:00muerz1hvtIVA26lfh4fB"
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 15
+}

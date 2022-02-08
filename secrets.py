@@ -1,0 +1,20 @@
+spotify_token = "BQBW5jIeo8Z-HMlIW6NjPjcbsQ59N92EBRMf55JSmagtCiDhOHPkx0zrvOPTKANMQArumEzk6s6d9k-1UVh3xohEf3Fd8bnMv2sNQqppP_bMFiqWPSoyzqUGO557saWG-nggT91YtiDeM_SEr1Qa_MhPk8SxBPc3n_vmUKVLfZc5HwbJcHecW1SBarbjCAuF-f2DW7cvdfR60sgre5uXOQ"
+spotify_user_id = "stuart5971"
+youtube_api_key = "AIzaSyDVwCkU9B6YWTWRSvOqj3T0wG0AliTyb7g"
+refresh_token = "AQA-1ItR7gVg5sZ024_6AaiQ3bPiApQp_cevTykffHvK-kQAs5af4CdHs9dNxYLLfHsnBGBP7ne457ZCArc1Y9ZFOrrbWai-QFkKy8GeYza4yL8s1-9_5s903FMDY6YOlas"
+base_64 = "10d3ea965cf04b8484b4f49d8ce8fb16:483d7bdc5b3e4dc28bd67370b7bc4de9"
+
+
+# Client ID 10d3ea965cf04b8484b4f49d8ce8fb16
+# Client Secret 483d7bdc5b3e4dc28bd67370b7bc4de9
+
+# 10d3ea965cf04b8484b4f49d8ce8fb16:483d7bdc5b3e4dc28bd67370b7bc4de9
+
+# https://accounts.spotify.com/authorize?client_id=10d3ea965cf04b8484b4f49d8ce8fb16&response_type=code&redirect_uri=http%3A%2F%2Flocalhost&scope=playlist-modify-public%20playlist-modify-private
+
+# curl -H "Authorization: Basic MTBkM2VhOTY1Y2YwNGI4NDg0YjRmNDlkOGNlOGZiMTY6NDgzZDdiZGM1YjNlNGRjMjhiZDY3MzcwYjdiYzRkZTk=" -d grant_type=authorization_code -d code=AQBbgdfG4NnLC4QfQOIRt_UbFnDXYdHAEsGq16AxCOUWV0E9OuiDujbeaI0wv-FMhKRbJNryV5eVv9vRFwIF7LfdSRiqLbyN-4jLOR4uOfliS0eQt9aCvEXfOgK9Pb2tbuRz0TmTxTSaECBgE_3PQHsDp6ZLe92GqSkyCsjdw2PB80cV_SqRTlra4eKxipL-8zRqWQEFaw8SYPe8dvsX_hs-Pmd0 -d redirect_uri=http%3A%2F%2Flocalhost https://accounts.spotify.com/api/token --ssl-no-revoke
+
+# {"access_token":"BQAq5y8CqgyTw32yKzP-Bg2idBLXjNKlTuGNaHZY3thnTGm19LIi7XxOwW_JcyKs4zf2F05z3tXw0WYwiPXdOr8CTl6TGKXDvbGLyEgmjlrMMHCq_tFtMV4zWxBLNv4i2SRAevdoUxBTS0MBKrbSOGNhbdKXV7sEUOYlFRtjyGgS-N_EsdtLIJrzlHtMEhVbgemVkBhDHjs",
+# "token_type":"Bearer",
+# "expires_in":3600,
+# "refresh_token":"AQA-1ItR7gVg5sZ024_6AaiQ3bPiApQp_cevTykffHvK-kQAs5af4CdHs9dNxYLLfHsnBGBP7ne457ZCArc1Y9ZFOrrbWai-QFkKy8GeYza4yL8s1-9_5s903FMDY6YOlas","scope":"playlist-modify-private playlist-modify-public"}
